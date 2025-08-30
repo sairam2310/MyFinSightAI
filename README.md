@@ -22,16 +22,12 @@ MyFinSightAI is a smart personal finance assistant that helps users track their 
 
 ## Tech Stack
 
-- **Backend:** Python (AI processing, analytics)  
-- **Frontend / Server:** Node.js  
-- **Database:** (Future) PostgreSQL / MongoDB  
+- **Backend:** Python (AI processing, analytics) + Docker
+- **Frontend / APP:**  React js / React Native
+- **Database:** MySql
 - **Version Control:** Git + GitHub  
 
 ---
-
-## Installation
-
-1. Clone the repository:
 
 ```bash
 git clone https://github.com/<your-username>/MyFinSightAI.git
